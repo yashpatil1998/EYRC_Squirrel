@@ -1,0 +1,7 @@
+﻿  NS_Task_1_Sandbox.cpp
+d:\eyantra\task_1_1_beanfactory\task_1_1_beanfactory\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.h(6): warning C4005: 'INFINITY': macro redefinition
+  d:\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+d:\eyantra\task_1_1_beanfactory\task_1_1_beanfactory\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(263): warning C4778: 'printf' : unterminated format string '%\n'
+d:\eyantra\task_1_1_beanfactory\task_1_1_beanfactory\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(209): warning C4101: 'index3': unreferenced local variable
+d:\eyantra\task_1_1_beanfactory\task_1_1_beanfactory\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(417): warning C4715: 'colour_detect': not all control paths return a value
+  NS_Task_1.vcxproj -> D:\Eyantra\Task_1_1_BeanFactory\Task_1_1_BeanFactory\NS_Project\NS_Task_1_Project\Debug\NS_Task_1.exe
